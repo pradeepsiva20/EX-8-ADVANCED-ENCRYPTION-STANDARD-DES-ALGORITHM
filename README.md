@@ -45,7 +45,7 @@ return 0;
 
 ## OUTPUT:
 
-![image](https://github.com/user-attachments/assets/2f883ed1-b494-4d40-b268-fc147c052dd4)
+![exp8 cryp](https://github.com/user-attachments/assets/267a9de9-dae1-4695-ba3a-ffcf92d0a376)
 
 
 ## RESULT: 
